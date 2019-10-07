@@ -1,2 +1,3 @@
-def say_hello
+def say_hello(name="Ruby Prgrammer")
+  puts "Hello #{name}"
 end 
